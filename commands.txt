@@ -1,1 +1,2 @@
 pip freeze > requirements.txt
+ Rename-Item -Path "boilerplate" -NewName "djecommerce"

@@ -1,6 +1,2 @@
-django-debug-toolbar
 Django
-pep8
-autopep8
-pytz
-
+python-decouple
